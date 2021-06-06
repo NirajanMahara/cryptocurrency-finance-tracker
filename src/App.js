@@ -29,7 +29,15 @@ function App() {
   return (
     <div className='coin-app'>
       <div className='coin-search'>
-        <h1 className='coin-text'>Search a currency</h1>
+        <h1 className='coin-text'>
+          Search a <span>CRYPTO-CURRENCY</span>
+        </h1>
+        <span>
+          {'Developer'}
+          <a href='https://www.linkedin.com/in/nirajanmahara/' target='_blank'>
+            {' ©  Nirajan Mahara'}
+          </a>
+        </span>
         <form>
           <input
             type='text'
