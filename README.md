@@ -2,13 +2,29 @@
 
 ## `react-cryptocurrency-api-project` [DEMO](https://react-crypto-tracker-2003jan29.web.app)
 
-Learn how to make a cryptocurrency finance price tracker app in this React API Project. We will use React Hook and Axios for this beginner React JS Project. We will mainly use useEffect and useState in this tutorial.
+✨ ` ReactJS API Project - Cryptocurrency Finance Price Tracker App Using Hooks and Axios`
 
-You will be able to search currencies and have it display on the browser. Also, the prices will update live whenever you refresh the page. We will get all of the data from a public API.
+🔴 `Objects:`
 
-API Link:
+- 🚀 Learn how to make a cryptocurrency finance price tracker app in this React API Project.
+
+- 🚀 Use React Hook and Axios for this beginner React JS Project.
+
+- 🚀 Mainly used useEffect and useState in this project.
+
+🔴 `Features:`
+
+- 🚀 We will be able to search currencies and have it display on the browser.
+
+- 🚀 Also, the prices will update live whenever we refresh the page.
+
+- 🚀 We will get all of the data from a public API.
+
+🔴 `API Link:`
 https://www.coingecko.com/en/api
 
+🔴 `LinkedIn:`
+https://www.linkedin.com/in/nirajanmahara/
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
